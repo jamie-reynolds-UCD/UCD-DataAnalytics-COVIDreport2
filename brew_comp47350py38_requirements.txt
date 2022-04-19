@@ -1,0 +1,5 @@
+graphviz
+poppler
+qt
+tcl-tk
+wget
